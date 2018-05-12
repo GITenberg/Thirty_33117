@@ -1,0 +1,36 @@
+_repo: Thirty_33117
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Amick, Robert Wesley
+    birthdate: 1879
+    deathdate: 1969
+    gutenberg_agent_id: '34092'
+    url: http://www.gutenberg.org/2009/agents/34092
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: O'Brien, Howard Vincent
+    birthdate: 1888
+    deathdate: 1947
+    gutenberg_agent_id: '36213'
+    url: http://www.gutenberg.org/2009/agents/36213
+description: ''
+gutenberg_issued: '2010-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33117'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Rich people -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Journalists -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+title: Thirty
+url: http://www.gutenberg.org/ebooks/33117
